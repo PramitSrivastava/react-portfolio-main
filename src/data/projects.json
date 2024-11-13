@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Real-Time Chat App",
+    "imageSrc": "projects/chat.png",
+    "description": "Developed a real-time chat application with Socket.io, enabling instant messaging and online user status tracking.  ",
+    "skills": ["React", "Express", "Node.js", "Socket.io"],
+    "demo": "https://chat-appp-osmw.onrender.com/",
+    "source": "https://github.com/PramitSrivastava/chat-appp"
+},
+
+  {
+    "title": "Ecommerce",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an intuitive ecommerce website with admin panel using Next.js Used Stripe for seamless payment mode.",
+    "skills": ["React", "Nextjs", "Tailwindcss"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/PramitSrivastava/ecommerce-front"
+  },
+  {
+    "title": "Draggable Todo list",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a todo list but you can customize it as you want. You can create , drag tasks from todo to work in progress to done .",
+    "skills": ["React", "Tailwindcss", "dndkit"],
+    "demo": "https://classy-pony-014c4f.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tic Tac Toe Game",
+    "imageSrc": "projects/tictac.png",
+    "description": "This is a tic tac toe game but not only that it keeps track of the moves and switches the control from one player to other.",
+    "skills": ["React", "Node" , "Tailwind"],
+    "demo": "https://tictactoed1.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Movie Streaming website",
+    "imageSrc": "projects/vid.png",
+    "description": "This is movie streaming website with really eyecatching ui . Here you can stream diffrent movies of all genre",
+    "skills": ["React", "Tailwind","Bootstrap"],
+    "demo": "https://vidstreaming1.netlify.app/home",
+    "source": "https://github.com/PramitSrivastava/Knotstar"
+  },
+  {
+    "title": "Pig Game",
+    "imageSrc": "projects/piggame.png",
+    "description": "The Pig Game is a fun and interactive game built with React.js, where players take turns rolling a die to accumulate points first to reach 100 wins.  ",
+    "skills": ["Html","Css", "Javascript"],
+    "demo": "https://reliable-longma-fb0d91.netlify.app/",
+    "source": "https://github.com/PramitSrivastava/Pig-Game"
+  }
+
+]
